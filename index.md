@@ -6,10 +6,9 @@ As a tribute to my Lolo... I am making this Family Tree website so that our next
 
 I will be also adding pictures starting from my Great Grandparents all the way up to my youngest cousin Rocio (No social network account yet).
 
-Here are some pictures that I'vde dig so far...
+Here are some pictures that I've dig so far...
 
-![Picture of my Lola and my younger brother Lorenzo](https://www.facebook.com/photo.php?fbid=1618216535222&set=a.1618214455170.78829.1230634091&type=3&theater)
-
+![Picture of my Lola and my younger brother Lorenzo](https://i.imgur.com/sZlktY7.png)
 
 
 
