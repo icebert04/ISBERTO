@@ -10,6 +10,8 @@ Here are some pictures that I've dig so far...
 
 ![Picture of my Lola and my younger brother Lorenzo](https://i.imgur.com/sZlktY7.png)
 
+![How this funny pic](http://globalnation.inquirer.net/files/2013/09/01_Isbertos1.jpg)
+
 
 
 
