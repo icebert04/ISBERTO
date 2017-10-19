@@ -8,16 +8,16 @@ I will be also adding pictures starting from my Great Grandparents all the way u
 
 Here are some pictures that I've dig so far...
 
-![Picture of my Lola and my younger brother Lorenzo](https://i.imgur.com/sZlktY7.png)
+![Picture of my Lola and my younger brother Lorenzo](https://scontent.fmnl4-1.fna.fbcdn.net/v/t1.0-9/41127_1618216535222_1622566_n.jpg?oh=750068353fa34125950640437a0f5e38&oe=5A772CDA)
 
+
+Tita Mai with Lolo...
 ![How this funny pic](http://globalnation.inquirer.net/files/2013/09/01_Isbertos1.jpg)
 
 
 
 
-You can use the [editor on GitHub](https://github.com/icebert04/isbertofamily/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
