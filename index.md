@@ -23,7 +23,8 @@ Here are some pictures that I've dig so far...
 >We The Brave, We The Isberto!
 
 
-More to follow...
-We only just Begun...
+**More to follow...**
+
+**We only just Begun...**
 
 
