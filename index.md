@@ -64,7 +64,7 @@ That is when I saw that each one of us including the older generations should co
 by adding pictures, videos, and stories and store it all in this site.
   
 That is when I saw the importance of the Isberto.org
-It is not a project anymore but more of a Family Tree diary that will 
+It is not a project anymore, but more of a Family Tree diary that will 
 carry on from my generation to the next
 
 ```
