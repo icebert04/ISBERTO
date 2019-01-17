@@ -54,12 +54,16 @@ end
 
 ### My Cousins
 
-| Name            | Child of...                | Grandchild of...                        |
-|:----------------|:---------------------------|:--------------------------------------- |
-| Chico Isberto   | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
-| Lee Isberto     | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
-| Luigi Isberto   | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
-| Lorenzo Isberto | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
+| Name             | Child of...                | Grandchild of...                        |
+|:-----------------|:---------------------------|:--------------------------------------- |
+| Chico Isberto    | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
+| Lee Isberto      | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
+| Luigi Isberto    | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
+| Lorenzo Isberto  | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
+| Maegan I. Lacson | Mai & Pj Lacson            | Mon & Iting Isberto                     |
+| Maia I. Lacson   | Mai & Pj Lacson            | Mon & Iting Isberto                     |
+| Zachary Isberto  | Nico & Ching Isberto       | Mon & Iting Isberto                     |
+
 
 ### Lorenzo
 
