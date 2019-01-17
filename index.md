@@ -3,23 +3,25 @@ layout: default
 published: true
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+We are next in line...
 
 ![Isberto](/images/Isberto Family.jpg)
 
 
+# Why I need to maintain the Isberto.org 
 
+I created this website as part of my school project 2 years ago. At that time, my goal is to get somebody who will fund for it then deploy the site live.
+So I went to my Papa Noel and his brothers to help me with it.
 
+# Now what??
 
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
+> After making the site, I really don't know what to do. 
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> I feel all alone. Adding a Facebook group just did a little help on the project.
+>
+> The domain name is about to expire... should I renew it?
+>
+> Is this the end of the line of the Isberto.org/
 
 ### Header 3
 
