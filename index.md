@@ -7,11 +7,9 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 ![Isberto](/images/Isberto Family.jpg)
 
-[Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+
 
 # Header 1
 
@@ -40,19 +38,9 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+* * *
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-### The 4th Gen Isberto
+# The 4th Gen Isberto
 
 | Name             | Child of...                | Grandchild of...                        |
 |:-----------------|:---------------------------|:--------------------------------------- |
@@ -65,11 +53,9 @@ end
 | Zachary Isberto  | Nico & Ching Isberto       | Mon & Iting Isberto                     |
 
 
-### Lorenzo
-
 * * *
 
-### Luigi
+
 
 
 
