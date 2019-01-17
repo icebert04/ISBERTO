@@ -23,22 +23,16 @@ So I went to my Papa Noel and his brothers to help me with it.
 >
 > Is this the end of the line of the Isberto.org/
 
-### Header 3
+# Then my Dad told me this...
 
 ```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+He told me that I should think about the next generation. That we are next in line and it's our resposibility to continue our family name that once started in the small province in Kalibo Aklan.
+
+So I look into my Facebook and made this list of the newest generation...
+
+Here is the list...
 ```
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 * * *
 
@@ -59,7 +53,12 @@ end
 * * *
 
 
-
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
 
 
 
