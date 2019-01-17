@@ -54,12 +54,12 @@ end
 
 ### My Cousins
 
-| Name          | Child of...            | Grandchild of...      |
-|:--------------|:-----------------------|:--------------------- |
-| Chico Isberto | Dominic & Kaye Isberto | Ruben & Cleo Isberto  |
-| Lee Isberto   | Dominic & Kaye Isberto | Ruben & Cleo Isberto  |
-| Luigi Isberto | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| Name            | Child of...                | Grandchild of...                        |
+|:----------------|:---------------------------|:--------------------------------------- |
+| Chico Isberto   | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
+| Lee Isberto     | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
+| Luigi Isberto   | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
+| Lorenzo Isberto | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
 
 ### Lorenzo
 
