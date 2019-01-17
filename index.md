@@ -52,25 +52,21 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+### My Cousins
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
+| Name          | Child of...            | Grandchild of...      |
+|:--------------|:-----------------------|:--------------------- |
+| Chico Isberto | Dominic & Kaye Isberto | Ruben & Cleo Isberto  |
+| Lee Isberto   | Dominic & Kaye Isberto | Ruben & Cleo Isberto  |
+| Luigi Isberto | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### Lorenzo
 
 * * *
 
-### Here is an unordered list:
+### Luigi
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
 
 
 
