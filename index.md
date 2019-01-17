@@ -28,7 +28,7 @@ So I went to my Papa Noel and his brothers to help me with it.
 ```js
 // He told me that I should think about the next generation. 
 That we are next in line and { 
-  it's our resposibility to continue our family name 
+  it's our responsibility to continue our family name 
   that once started in the small province of Kalibo Aklan;
 }
 
@@ -68,6 +68,8 @@ It is not a project anymore but more of a Family Tree diary that will
 carry on from my generation to the next
 
 ```
+
+* * *
 
 
 
