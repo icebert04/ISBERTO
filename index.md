@@ -26,13 +26,16 @@ So I went to my Papa Noel and his brothers to help me with it.
 # Then my Dad told me this...
 
 ```js
-// He told me that I should think about the next generation. 
+// He told me that I should think about 
+the next generation. 
 That we are next in line and { 
-  it's our responsibility to continue our family name 
-  that once started in the small province of Kalibo Aklan;
+  it's our responsibility to continue our 
+  family name   that once started in the 
+  small province of Kalibo Aklan;
 }
 
-// So I look into my Facebook and made this list of the newest generation...
+// So I look into my Facebook and made 
+this list of the newest generation...
 
 Here is the list...
 ```
@@ -58,14 +61,21 @@ Here is the list...
 
 
 ```ruby
-# I noticed that we are about 8 newbies who will someday have children in the future
+# I noticed that we are about 8 newbies 
+who will someday have children in the future
 
-That is when I saw that each one of us including the older generations should contribute
-by adding pictures, videos, and stories and store it all in this site.
+That is when I saw that each one of us 
+including the older generations should 
+contribute by adding pictures, videos, 
+and stories and store it all in this 
+site.
   
-That is when I saw the importance of the Isberto.org
-It is not a project anymore, but more of a Family Tree diary that will 
-carry on from my generation to the next
+That is when I saw the importance of 
+the Isberto.org
+It is not a project anymore, but more 
+of a Family Tree diary that will 
+carry on from my generation to the 
+next
 
 ```
 
