@@ -46,6 +46,7 @@ end
 |:-----------------|:---------------------------|:--------------------------------------- |
 | Chico Isberto    | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
 | Lee Isberto      | Dominic & Kaye Isberto     | Ruben & Cleo Isberto                    |
+| Rocio I. Castro  | Roan & Chuckie Castro      | Ruben & Cleo Isberto                    |
 | Luigi Isberto    | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
 | Lorenzo Isberto  | Francis & Rachelle Isberto | Noel Isberto (married to Rose Isberto)  |
 | Maegan I. Lacson | Mai & Pj Lacson            | Mon & Iting Isberto                     |
